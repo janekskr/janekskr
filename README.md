@@ -40,23 +40,19 @@ I am a passionate 16-year-old frontend and mobile app developer with a keen inte
 ### [HelpHunters](www.helphunters.pl)
 Aplikacja HelpHunters opiera się na pomaganiu w drobnych, codziennych pracach. Potrzebujący nadaje zadanie, które jest wypełniane przez wolontariusza. Osoba pomagająca jest wynagradzana punktami w aplikacji, które przekładają się na nagrody. Nasza działalność łączy ludzi niezdolnych zwykle do wykonania określonych czynności z osobami, które mogą im pomóc. Jedną z tych czynności, która może być trudna dla pewnych osób, a z którą mogą pomóc wolontariusze użytkowanie i zrozumienie nowoczesnej technologii. Dzięki pomocy jaką oferujemy poprzez wolontariuszy, możemy działać pozytywnie nad inkluzywnością technologiczną, włączając coraz więcej osób w sferę nowych technologii. Z naszego projektu może korzystać każdy, kto potrzebuje pomocy. Dzisiejsze czasy bywają trudne, a nasza aplikacja pozwoli poznać wielu wspaniałych ludzi! Aplikacja zyskała patronat firm takich jak: Autopay, Capgemini, czy też Fundacji BGK.
 
-<div style="width:400px; height:400; overflow:hidden; border-radius:10px;">
-  <img src="https://helphunters.pl/img/favicon.png" alt="HelpHunters Logo" width="400" height="400">
-</div>
+<img src="https://helphunters.pl/img/favicon.png" alt="HelpHunters Logo" width="200" height="200">
+
 
 ### [Baldini - expo and firebase mobile app](https://github.com/janekskr/firebase-expo-app)
 Aplikacja mobilna stworzona przy pomocy Expo i Firebase, w której możesz tworzyć posty dzieląc się wydarzeniami ze swojego życia!
 
-<div style="width:711px; height:400; overflow:hidden; border-radius:10px;">
-  <img src="https://raw.githubusercontent.com/janekskr/firebase-expo-app/main/assets/images/mockup.png" alt="Baldini Mockup" height="400" width="711">
-</div>
+<img src="https://raw.githubusercontent.com/janekskr/firebase-expo-app/main/assets/images/mockup.png" alt="Baldini Mockup" height="400" width="711">
 
 ### [Inteligentna doniczka - frontend](https://github.com/janekskr/inteligent-flower-pot-frontend)
 Aplikacja do kontroli i odczytywania danych z inteligentnej doniczki zrobionej na konkurs "Elektronika – by żyło się łatwiej". Została stworzona przy użyciu Expo, React Native i TypeScript
 
-<div style="width:711px; height:400; overflow:hidden; border-radius:10px;">
-  <img src="https://raw.githubusercontent.com/janekskr/inteligent-flower-pot-frontend/main/src/assets/images/design.png" alt="Inteligentna Doniczka Mockup" height="400"  width="535">
-</div>
+<img src="https://raw.githubusercontent.com/janekskr/inteligent-flower-pot-frontend/main/src/assets/images/design.png" alt="Inteligentna Doniczka Mockup" height="400"  width="535">
+
 
 ## 📫 Connect with Me
 
