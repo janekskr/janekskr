@@ -5,9 +5,9 @@
 ## 👨‍💻 About Me
 I am a passionate 16-year-old frontend and mobile app developer with a keen interest in creating intuitive and dynamic user experiences. I love to explore new technologies and leverage them to solve real-life problems.
 
-- 🌱 I’m currently learningfocusing on **Next.js and Expo**
+- 🌱 I’m currently focusing on **Next.js and Expo**
 - 👯 I’m wokring on 
-- 📫 How to reach me: [janeczek.skrobot@gmail.com] or [LinkedIn](https://linkedin.com/in/janekskr)
+- 📫 How to reach me: [Email](mailto:janeczek.skrobot@gmail.com) or [LinkedIn](https://linkedin.com/in/janekskr)
 
 ## 🛠️ Technologies and Tools
 
