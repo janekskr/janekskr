@@ -55,7 +55,7 @@ Aplikacja mobilna stworzona przy pomocy Expo i Firebase, w której możesz tworz
 Aplikacja do kontroli i odczytywania danych z inteligentnej doniczki zrobionej na konkurs "Elektronika – by żyło się łatwiej". Została stworzona przy użyciu Expo, React Native i TypeScript
 
 <div style="width:711px; height:400; overflow:hidden; border-radius:10px;">
-  <img src="https://raw.githubusercontent.com/janekskr/inteligent-flower-pot-frontend/main/src/assets/images/design.png" alt="Inteligentna Doniczka Mockup" height="400"  width="711">
+  <img src="https://raw.githubusercontent.com/janekskr/inteligent-flower-pot-frontend/main/src/assets/images/design.png" alt="Inteligentna Doniczka Mockup" height="400"  width="535">
 </div>
 
 ## 📫 Connect with Me
