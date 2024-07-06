@@ -25,9 +25,6 @@ I am a passionate 16-year-old frontend and mobile app developer with a keen inte
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janekskr&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=janekskr&theme=onedark)
-
 ## 📈 Contribution Graph
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janekskr&theme=tokyonight)](https://git.io/streak-stats)
 
