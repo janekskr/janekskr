@@ -33,8 +33,6 @@ I am a passionate 16-year-old frontend and mobile app developer with a keen inte
 
 ## 💻 Projects
 
-## 💻 Projects
-
 ### [HelpHunters](www.helphunters.pl)
 Aplikacja HelpHunters opiera się na pomaganiu w drobnych, codziennych pracach. Potrzebujący nadaje zadanie, które jest wypełniane przez wolontariusza. Osoba pomagająca jest wynagradzana punktami w aplikacji, które przekładają się na nagrody. Nasza działalność łączy ludzi niezdolnych zwykle do wykonania określonych czynności z osobami, które mogą im pomóc. Jedną z tych czynności, która może być trudna dla pewnych osób, a z którą mogą pomóc wolontariusze użytkowanie i zrozumienie nowoczesnej technologii. Dzięki pomocy jaką oferujemy poprzez wolontariuszy, możemy działać pozytywnie nad inkluzywnością technologiczną, włączając coraz więcej osób w sferę nowych technologii. Z naszego projektu może korzystać każdy, kto potrzebuje pomocy. Dzisiejsze czasy bywają trudne, a nasza aplikacja pozwoli poznać wielu wspaniałych ludzi! Aplikacja zyskała patronat firm takich jak: Autopay, Capgemini, czy też Fundacji BGK.
 
