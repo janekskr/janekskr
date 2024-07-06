@@ -52,7 +52,8 @@ Aplikacja do kontroli i odczytywania danych z inteligentnej doniczki zrobionej n
 
 ## 📫 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janeczek.skrobot@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge?style=flat&logo=gmail&logoColor=white)](mailto:janeczek.skrobot@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-skrobot-a998b82a0/)
 
 <!--[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/janekskrobot/)-->
