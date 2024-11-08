@@ -21,13 +21,6 @@ I am a passionate 16-year-old frontend and mobile app developer with a keen inte
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janekskr&layout=compact&theme=tokyonight&hide_border=true)
-
-## 📈 Contribution Graph
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janekskr&theme=tokyonight)](https://git.io/streak-stats)
-
 ## 💻 Projects
 
 ### [HelpHunters](https://linktr.ee/helphunters)
