@@ -1,7 +1,5 @@
 # Hi there, I'm Janek Skrobot 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=janekskr&color=blue)
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=white)
@@ -44,5 +42,7 @@ Aplikacja do kontroli i odczytywania danych z inteligentnej doniczki zrobionej n
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-skrobot-a998b82a0/)
 
-<!--[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/janekskrobot/)-->
+
+![Profile Views](https://komarev.com/ghpvc/?username=janekskr&color=blue)
+
 
