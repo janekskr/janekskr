@@ -2,15 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=janekskr&color=blue)
 
-## 👨‍💻 About Me
-I am a passionate 16-year-old frontend and mobile app developer with a keen interest in creating intuitive and dynamic user experiences. I love to explore new technologies and leverage them to solve real-life problems.
-
-- 🌱 I’m currently focusing on **Next.js and Expo**
-- 👯 I’m wokring on 
-- 📫 How to reach me: [Email](mailto:janeczek.skrobot@gmail.com) or [LinkedIn](https://linkedin.com/in/janekskr)
-
-## 🛠️ Technologies and Tools
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=white)
@@ -20,6 +11,13 @@ I am a passionate 16-year-old frontend and mobile app developer with a keen inte
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+## 👨‍💻 About Me
+I am a passionate 16-year-old frontend and mobile app developer with a keen interest in creating intuitive and dynamic user experiences. I love to explore new technologies and leverage them to solve real-life problems.
+
+- 🌱 I’m currently focusing on **Next.js and Expo**
+- 👯 I’m wokring on 
+- 📫 How to reach me: [Email](mailto:janeczek.skrobot@gmail.com) or [LinkedIn](https://linkedin.com/in/janekskr)
 
 ## 💻 Projects
 
