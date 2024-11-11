@@ -7,9 +7,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
-- About Me(#about-me)
-- Projects(#projects)
-- Contact(#contats)
+- [About Me](#-about-me)
+- [Projects](#-projects)
+- [Contact](#-contact-with-me)
 
 ## 👨‍💻 About Me
 I am 16-year-old frontend and mobile app developer.
@@ -33,7 +33,7 @@ Aplikacja do kontroli i odczytywania danych z inteligentnej doniczki zrobionej n
 <img src="https://raw.githubusercontent.com/janekskr/inteligent-flower-pot-frontend/main/src/assets/images/design.png" alt="Inteligentna Doniczka Mockup" height="400"  width="535">
 
 
-## 📫 Contats
+## 📫 Contact with me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge?style=flat&logo=gmail&logoColor=white)](mailto:janeczek.skrobot@gmail.com)
 
