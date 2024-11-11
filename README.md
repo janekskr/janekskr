@@ -8,11 +8,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 ## 👨‍💻 About Me
-I am a passionate 16-year-old frontend and mobile app developer with a keen interest in creating intuitive and dynamic user experiences. I love to explore new technologies and leverage them to solve real-life problems.
+I am 16-year-old frontend and mobile app developer.
 
-- 🌱 I’m currently focusing on **Next.js and Expo**
-- 👯 I’m wokring on 
-- 📫 How to reach me: [Email](mailto:janeczek.skrobot@gmail.com) or [LinkedIn](https://linkedin.com/in/janekskr)
+[Email](mailto:janeczek.skrobot@gmail.com) or [LinkedIn](https://linkedin.com/in/janekskr)
 
 ## 💻 Projects
 
