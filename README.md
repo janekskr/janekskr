@@ -7,6 +7,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
+### List of content:
+
 - [About Me](#-about-me)
 - [Projects](#-projects)
 - [Contact](#-contact-with-me)
