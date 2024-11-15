@@ -1,4 +1,6 @@
-# Hi there, I'm Janek Skrobot 👋
+# Hi there 👋
+
+My name is Jan Skrobot and I am 16-year-old frontend and mobile app developer.
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
@@ -6,15 +8,6 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-
-### List of content:
-
-- [About Me](#-about-me)
-- [Projects](#-projects)
-- [Contact](#-contact-with-me)
-
-## 👨‍💻 About Me
-I am 16-year-old frontend and mobile app developer.
 
 ## 💻 Projects
 
