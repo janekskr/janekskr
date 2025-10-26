@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jan Skrobot and I am 16-year-old frontend and mobile app developer.
+My name is Jan Skrobot and I am 18-year-old frontend and mobile app developer.
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
