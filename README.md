@@ -8,10 +8,16 @@ My name is Jan Skrobot and I am 18-year-old frontend and mobile app developer.
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![NestJs](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
 
 ### 💻 Projects:
 
-- [HelpHunters](https://linktr.ee/helphunters)
+- [VeroAI](https://github.com/janekskr/vero-ai)  
+VeroAI uses artificial intelligence (Gemini LLM) to help seniors and children detect fake images, fake news, and suspicious emails. It provides easy-to-use tools for verifying the authenticity of online content. The platform also includes a **Threat Database** to track and provide real-time information about potential dangers and fake content. 
+
+<img src="https://github.com/janekskr/vero-ai/blob/main/public/mockups/main-page.png" alt="VeroAI banner" width="711" height="400">
+
+- [HelpHunters](https://helphunters.pl)
 HelpHunters is an app focused on assisting with small, everyday tasks. A person in need creates a task, which is then completed by a volunteer. Helpers earn points within the app, which can later be exchanged for rewards.
 Our mission is to connect people who are unable to perform certain activities with those who can help them. One example of such help can be assisting others in understanding and using modern technology. By supporting technological inclusion through volunteering, we can help more people engage with new technologies.
 The app is open to everyone who needs assistance — in challenging times, our platform helps connect people and build community.
