@@ -12,26 +12,30 @@ My name is Jan Skrobot and I am 18-year-old frontend and mobile app developer.
 
 ### 💻 Projects:
 
-- [VeroAI](https://github.com/janekskr/vero-ai)  
+- [VeroAI](https://github.com/janekskr/vero-ai)
+  
 VeroAI uses artificial intelligence (Gemini LLM) to help seniors and children detect fake images, fake news, and suspicious emails. It provides easy-to-use tools for verifying the authenticity of online content. The platform also includes a **Threat Database** to track and provide real-time information about potential dangers and fake content. 
 
-<img src="https://github.com/janekskr/vero-ai/blob/main/public/mockups/main-page.png" alt="VeroAI banner" width="711" height="400">
+<img src="https://github.com/janekskr/vero-ai/blob/main/public/mockups/main-page.png" alt="VeroAI banner" width="711" height="400" margin="0 auto">
 
 - [HelpHunters](https://helphunters.pl)
+  
 HelpHunters is an app focused on assisting with small, everyday tasks. A person in need creates a task, which is then completed by a volunteer. Helpers earn points within the app, which can later be exchanged for rewards.
 Our mission is to connect people who are unable to perform certain activities with those who can help them. One example of such help can be assisting others in understanding and using modern technology. By supporting technological inclusion through volunteering, we can help more people engage with new technologies.
 The app is open to everyone who needs assistance — in challenging times, our platform helps connect people and build community.
 HelpHunters has received patronage from companies such as Autopay, Capgemini, and the BGK Foundation.
 
-<img src="https://github.com/janekskr/HelpHunters-mobile-app/blob/main/assets/images/app_icons/banner_app.png" alt="HelpHunters Banner" width="711" height="400">
+<img src="https://github.com/janekskr/HelpHunters-mobile-app/blob/main/assets/images/app_icons/banner_app.png" alt="HelpHunters Banner" width="711" height="400" margin="0 auto">
 
 
 - [Baldini - expo and firebase mobile app](https://github.com/janekskr/firebase-expo-app)
+  
 A mobile app built with Expo and Firebase, where users can create posts and share moments from their lives!
 
-<img src="https://raw.githubusercontent.com/janekskr/firebase-expo-app/main/assets/images/mockup.png" alt="Baldini Mockup" height="400" width="711">
+<img src="https://raw.githubusercontent.com/janekskr/firebase-expo-app/main/assets/images/mockup.png" alt="Baldini Mockup" height="400" width="711" margin="0 auto">
 
 - [Inteligentna doniczka - frontend](https://github.com/janekskr/inteligent-flower-pot-frontend)
+  
 An app for monitoring and controlling a smart flower pot created for the competition “Elektronika – by żyło się łatwiej”.
 Built using Expo, React Native, and TypeScript.
 
