@@ -14,7 +14,7 @@ My name is Jan Skrobot and I am 18-year-old frontend and mobile app developer.
 
 - [VeroAI](https://github.com/janekskr/vero-ai)
   
-VeroAI uses artificial intelligence (Gemini LLM) to help seniors and children detect fake images, fake news, and suspicious emails. It provides easy-to-use tools for verifying the authenticity of online content. The platform also includes a **Threat Database** to track and provide real-time information about potential dangers and fake content. 
+VeroAI is a website made for Hackaton - _Krakow Innovation Games 2025_ in just a 14 hours. It uses Gemini LLM to help seniors and children detect fake images, fake news, and suspicious emails. It provides easy-to-use tools for verifying the authenticity of online content. The platform also includes a **Threat Database** to track and provide real-time information about potential dangers and fake content. 
 
 <img src="https://github.com/janekskr/vero-ai/blob/main/public/mockups/main-page.png" alt="VeroAI banner" width="711" height="400" margin="0 auto">
 
